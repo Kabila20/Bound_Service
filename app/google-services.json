@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "224577520561",
+    "project_id": "bound-services",
+    "storage_bucket": "bound-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224577520561:android:da21bfd2f6529ad2773390",
+        "android_client_info": {
+          "package_name": "com.example.bound_services"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224577520561-73oiuhoqendtba3kvsr40l4e23a7u92c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcM5iI9w2SOGxZmaXId3jmjx-6iR7Q0e8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224577520561-73oiuhoqendtba3kvsr40l4e23a7u92c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

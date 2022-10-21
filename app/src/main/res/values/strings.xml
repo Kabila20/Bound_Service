@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bound_Services</string>
+    <string name="name">Name</string>
+    <string name="btn">Button</string>
+    <string name="bind_service">Bind Service</string>
+    <string name="unbind_service">unbind_service</string>
+    <string name="enter_no">enter no</string>
+    <string name="button2" />
+    <string name="total" />
+</resources>
